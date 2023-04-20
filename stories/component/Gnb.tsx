@@ -19,7 +19,7 @@ export const Gnb = ({
     <ul className={styled.gnb}>
       <li>
         <Link href={'#'}>
-          
+          sd
         </Link>
       </li>
    </ul>
